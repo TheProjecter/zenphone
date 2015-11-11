@@ -1,0 +1,1 @@
+zenPhone is an iphone theme for ZENphoto galleries.  It uses jQTouch to turn your ZENphoto gallery into a web application that functions like a native iphone application.
